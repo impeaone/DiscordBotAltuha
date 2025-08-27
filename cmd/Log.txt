@@ -1,0 +1,1696 @@
+22.08.2025 13:42:02
+Level: Error
+Message: Api-key value in evironment is empty
+Place: main.go:56
+
+22.08.2025 13:45:23
+Level: Info
+Message: Create session success
+Place: botFunctions.go:79
+
+22.08.2025 13:45:24
+Level: Info
+Message: Бот запущен как Дух сервера#3264
+Place: main.go:76
+
+22.08.2025 13:54:23
+Level: Info
+Message: Create session success
+Place: botFunctions.go:79
+
+22.08.2025 13:54:24
+Level: Info
+Message: Бот запущен как Дух сервера#3264
+Place: main.go:77
+
+22.08.2025 13:55:07
+Level: Info
+Message: Create session success
+Place: botFunctions.go:79
+
+22.08.2025 13:55:07
+Level: Info
+Message: Бот запущен как Дух сервера#3264
+Place: main.go:76
+
+22.08.2025 15:01:05
+Level: Info
+Message: Create session success
+Place: botFunctions.go:79
+
+22.08.2025 15:01:05
+Level: Info
+Message: Бот запущен как Дух сервера#3264
+Place: main.go:76
+
+22.08.2025 15:49:41
+Level: Info
+Message: Create session success
+Place: botFunctions.go:79
+
+22.08.2025 15:49:41
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:64
+
+22.08.2025 15:53:26
+Level: Info
+Message: Create session success
+Place: botFunctions.go:75
+
+22.08.2025 15:53:27
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:64
+
+22.08.2025 15:53:57
+Level: Info
+Message: impeaone написал боту: альтуха
+Place: ai.go:74
+
+22.08.2025 15:54:13
+Level: Info
+Message: impeaone написал боту: альтуха кто такой серега?
+Place: ai.go:74
+
+22.08.2025 15:55:56
+Level: Info
+Message: Vlad написал боту: /time
+Place: ai.go:74
+
+22.08.2025 15:55:56
+Level: Info
+Message: impeaone использовал команду <time>
+Place: database.go:66
+
+22.08.2025 15:55:56
+Level: Warning
+Message: Create channel message error
+HTTP 404 Not Found, {"message": "Unknown interaction", "code": 10062}
+Place: main.go:159
+
+22.08.2025 16:00:56
+Level: Info
+Message: Create session success
+Place: botFunctions.go:75
+
+22.08.2025 16:00:57
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:64
+
+22.08.2025 16:01:14
+Level: Info
+Message: Vlad написал боту: /ping
+Place: ai.go:74
+
+22.08.2025 16:01:14
+Level: Info
+Message: impeaone использовал команду <ping>
+Place: database.go:66
+
+22.08.2025 16:01:58
+Level: Info
+Message: Create session success
+Place: botFunctions.go:75
+
+22.08.2025 16:01:59
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:64
+
+22.08.2025 16:02:13
+Level: Info
+Message: Vlad написал боту: /time
+Place: ai.go:74
+
+22.08.2025 16:02:13
+Level: Info
+Message: impeaone использовал команду <time>
+Place: database.go:66
+
+22.08.2025 16:03:50
+Level: Info
+Message: Create session success
+Place: botFunctions.go:75
+
+22.08.2025 16:03:50
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:64
+
+22.08.2025 16:04:03
+Level: Info
+Message: Vlad написал боту: /time
+Place: ai.go:74
+
+22.08.2025 16:04:03
+Level: Info
+Message: impeaone использовал команду <time>
+Place: database.go:66
+
+22.08.2025 16:05:07
+Level: Info
+Message: faris228 написал боту: альтуха ебаная бущенка
+Place: ai.go:74
+
+22.08.2025 16:06:33
+Level: Info
+Message: Create session success
+Place: botFunctions.go:75
+
+22.08.2025 16:06:33
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:64
+
+22.08.2025 16:06:49
+Level: Info
+Message: loliisbaddass написал боту: альтуха как тебе фарис
+Place: ai.go:74
+
+22.08.2025 16:07:41
+Level: Info
+Message: faris228 написал боту: АХУЕЛА ШЛЮХА Я ТЕБЯ В МИДУ ВЫЕБУ СУЧКА БУЩЕНАЯ АЛЬТУХА ДАВАЙ СВОЙ КОД
+Place: ai.go:74
+
+22.08.2025 16:08:10
+Level: Info
+Message: loliisbaddass написал боту: АЛЬТУШКА ТЫ ПУШКА ПРОСто
+Place: ai.go:74
+
+22.08.2025 16:08:54
+Level: Info
+Message: loliisbaddass написал боту: За что хейт альтушка ты забыла что я тебя обучал доте ?
+Place: ai.go:74
+
+22.08.2025 16:09:23
+Level: Info
+Message: loliisbaddass написал боту: альтушка у меня 20к ммр в доте
+Place: ai.go:74
+
+22.08.2025 16:09:44
+Level: Info
+Message: faris228 написал боту: альтуха а сколько у тебя ммр в доте?
+Place: ai.go:74
+
+22.08.2025 16:09:50
+Level: Info
+Message: loliisbaddass написал боту: альтушка ты ебанутая у меня 100к часов
+Place: ai.go:74
+
+22.08.2025 16:10:21
+Level: Info
+Message: faris228 написал боту: альтуха у тимиохи 20к ммр у тебя 7к считать научись тупая шалава анскильная
+Place: ai.go:74
+
+22.08.2025 16:12:02
+Level: Info
+Message: Create session success
+Place: botFunctions.go:75
+
+22.08.2025 16:12:03
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:64
+
+22.08.2025 16:12:43
+Level: Info
+Message: loliisbaddass написал боту: альтуха я лучше тебя в доту играю. все фишки которые ты юзаешь это мой учения если хочешь пососать мой хуй то делай это причмокивая
+Place: ai.go:74
+
+22.08.2025 16:13:46
+Level: Info
+Message: impeaone написал боту: альтуха, как думаешь вангуард на сларка имба?
+Place: ai.go:74
+
+22.08.2025 16:15:06
+Level: Info
+Message: faris228 написал боту: альтуха а на какой минуте ты бф собираешь?
+Place: ai.go:74
+
+22.08.2025 16:15:36
+Level: Info
+Message: faris228 написал боту: альтуха ты забыла как я тебя вынес в миду? снова повторить?
+Place: ai.go:74
+
+22.08.2025 16:17:20
+Level: Info
+Message: faris228 написал боту: дух скажи альтуха
+Place: ai.go:74
+
+22.08.2025 16:20:10
+Level: Info
+Message: impeaone написал боту: альтуха сделай мне сборку под пака чтобы слить катку на рекрутах
+Place: ai.go:74
+
+22.08.2025 16:23:40
+Level: Info
+Message: Create session success
+Place: botFunctions.go:75
+
+22.08.2025 16:23:40
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:64
+
+22.08.2025 16:23:56
+Level: Info
+Message: impeaone написал боту: дух, ты знаешь кто такие альтушки?
+Place: ai.go:74
+
+22.08.2025 16:23:56
+Level: Warning
+Message: Дух сервера спамит боту!
+Place: ai.go:23
+
+22.08.2025 16:23:56
+Level: Warning
+Message: Альтушка спамит боту!
+Place: ai.go:23
+
+22.08.2025 16:23:57
+Level: Warning
+Message: Альтушка спамит боту!
+Place: ai.go:23
+
+22.08.2025 16:24:00
+Level: Info
+Message: Альтушка написал боту: Альтушка не нужно так быстро писать! Я не скоростная.
+Place: ai.go:74
+
+22.08.2025 16:24:59
+Level: Info
+Message: Create session success
+Place: botFunctions.go:75
+
+22.08.2025 16:24:59
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:64
+
+22.08.2025 16:25:36
+Level: Info
+Message: impeaone написал боту: дух напиши альтуха
+Place: ai.go:74
+
+22.08.2025 16:25:38
+Level: Warning
+Message: Дух сервера спамит боту!
+Place: ai.go:23
+
+22.08.2025 16:26:13
+Level: Info
+Message: Create session success
+Place: botFunctions.go:75
+
+22.08.2025 16:26:14
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:64
+
+22.08.2025 16:27:18
+Level: Info
+Message: Vlad написал боту: /you
+Place: ai.go:74
+
+22.08.2025 16:27:18
+Level: Info
+Message: impeaone использовал команду <you>
+Place: database.go:66
+
+22.08.2025 16:27:54
+Level: Info
+Message: Vlad написал боту: /you
+Place: ai.go:74
+
+22.08.2025 16:27:55
+Level: Info
+Message: impeaone использовал команду <you>
+Place: database.go:66
+
+22.08.2025 16:48:56
+Level: Info
+Message: Create session success
+Place: botFunctions.go:75
+
+22.08.2025 16:48:57
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:64
+
+22.08.2025 17:37:57
+Level: Info
+Message: Dimanche написал боту: /ping
+Place: ai.go:74
+
+22.08.2025 17:37:57
+Level: Info
+Message: dimansh использовал команду <ping>
+Place: database.go:66
+
+22.08.2025 17:38:32
+Level: Info
+Message: dimansh написал боту: Йо Альтуха, что об Сереге думаешь
+Place: ai.go:74
+
+22.08.2025 21:27:23
+Level: Error
+Message: ошибка базы данных
+Place: database.go:29
+
+22.08.2025 21:27:23
+Level: Error
+Message: unable to open database file: The system cannot find the path specified.
+Place: main.go:36
+
+22.08.2025 21:28:42
+Level: Error
+Message: Bot-token value in evironment is empty
+Place: main.go:57
+
+22.08.2025 21:30:21
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 21:30:21
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:70
+
+22.08.2025 21:30:23
+Level: Warning
+Message: Registering commands error: HTTP 400 Bad Request, {"message": "Invalid Form Body", "code": 50035, "errors": {"4": {"options": {"0": {"name": {"_errors": [{"code": "APPLICATION_COMMAND_INVALID_NAME", "message": "Command name is invalid"}]}}}}, "5": {"options": {"0": {"name": {"_errors": [{"code": "APPLICATION_COMMAND_INVALID_NAME", "message": "Command name is invalid"}]}}, "1": {"name": {"_errors": [{"code": "APPLICATION_COMMAND_INVALID_NAME", "message": "Command name is invalid"}]}}}}}}
+Place: main.go:281
+
+22.08.2025 21:31:30
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 21:31:30
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:70
+
+22.08.2025 21:31:30
+Level: Warning
+Message: Registering commands error: HTTP 400 Bad Request, {"message": "Invalid Form Body", "code": 50035, "errors": {"4": {"options": {"0": {"name": {"_errors": [{"code": "APPLICATION_COMMAND_INVALID_NAME", "message": "Command name is invalid"}]}}}}, "5": {"options": {"0": {"name": {"_errors": [{"code": "APPLICATION_COMMAND_INVALID_NAME", "message": "Command name is invalid"}]}}, "1": {"name": {"_errors": [{"code": "APPLICATION_COMMAND_INVALID_NAME", "message": "Command name is invalid"}]}}}}}}
+Place: main.go:281
+
+22.08.2025 21:32:16
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 21:32:17
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:70
+
+22.08.2025 21:33:23
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 21:33:23
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:70
+
+22.08.2025 21:34:48
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 21:34:49
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:70
+
+22.08.2025 21:35:40
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 21:35:41
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:70
+
+22.08.2025 21:36:29
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 21:36:30
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:70
+
+22.08.2025 21:37:48
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 21:37:49
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:70
+
+22.08.2025 21:38:59
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 21:39:00
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:70
+
+22.08.2025 21:39:28
+Level: Info
+Message: Vlad добавил сопоставление: Vlad <=> 76561198298329376
+Place: database.go:63
+
+22.08.2025 21:49:47
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 21:49:48
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:70
+
+22.08.2025 21:50:10
+Level: Info
+Message: Vlad добавил сопоставление: Vlad <=> 76561198298329376
+Place: database.go:63
+
+22.08.2025 21:50:11
+Level: Info
+Message: impeaone использовал команду <add Vlad <=> 76561198298329376>
+Place: database.go:55
+
+22.08.2025 21:53:26
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 21:53:26
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:70
+
+22.08.2025 21:53:54
+Level: Info
+Message: Vlad добавил сопоставление: Vlad <=> 76561198298329376
+Place: database.go:63
+
+22.08.2025 21:53:55
+Level: Info
+Message: impeaone использовал команду </add Vlad <=> 76561198298329376>
+Place: database.go:55
+
+22.08.2025 21:59:02
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 21:59:02
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:70
+
+22.08.2025 21:59:23
+Level: Info
+Message: Vlad добавил сопоставление: Vlad <=> 76561198298329376
+Place: database.go:63
+
+22.08.2025 21:59:23
+Level: Info
+Message: impeaone использовал команду </add Vlad <=> 76561198298329376>
+Place: database.go:55
+
+22.08.2025 22:02:33
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 22:02:34
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:70
+
+22.08.2025 22:02:55
+Level: Info
+Message: Vlad добавил сопоставление: Vlad <=> 76561198298329376
+Place: database.go:63
+
+22.08.2025 22:02:55
+Level: Info
+Message: impeaone использовал команду </add Vlad <=> 76561198298329376>
+Place: database.go:55
+
+22.08.2025 22:03:45
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 22:03:46
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:70
+
+22.08.2025 22:04:06
+Level: Info
+Message: impeaone добавил сопоставление: Vlad <=> 76561198298329376
+Place: database.go:63
+
+22.08.2025 22:04:06
+Level: Info
+Message: impeaone использовал команду </add Vlad <=> 76561198298329376>
+Place: database.go:55
+
+22.08.2025 22:05:32
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 22:05:32
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:70
+
+22.08.2025 22:05:47
+Level: Info
+Message: impeaone добавил сопоставление: Vlad <=> 76561198298329376
+Place: database.go:66
+
+22.08.2025 22:05:48
+Level: Info
+Message: impeaone использовал команду </add Vlad <=> 76561198298329376>
+Place: database.go:57
+
+22.08.2025 22:07:29
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 22:07:30
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:70
+
+22.08.2025 22:07:39
+Level: Info
+Message: Vlad добавил сопоставление: impeaone <=> 76561198298329376
+Place: database.go:63
+
+22.08.2025 22:07:40
+Level: Info
+Message: Vlad использовал команду </add impeaone <=> 76561198298329376>
+Place: database.go:55
+
+22.08.2025 22:46:01
+Level: Warning
+Message: Список сопоставлений пустой
+Place: main.go:52
+
+22.08.2025 22:46:25
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 22:46:26
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:77
+
+22.08.2025 22:46:54
+Level: Info
+Message: impeaone добавил сопоставление: impeaone <=> 76561198298329376
+Place: database.go:63
+
+22.08.2025 22:46:54
+Level: Info
+Message: impeaone использовал команду </add impeaone <=> 76561198298329376>
+Place: database.go:55
+
+22.08.2025 22:47:04
+Level: Warning
+Message: Ошибка get steam user: no player data
+Place: main.go:301
+
+22.08.2025 22:48:51
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 22:48:51
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:77
+
+22.08.2025 22:49:17
+Level: Info
+Message: impeaone добавил сопоставление: impeaone <=> 76561198298329376
+Place: database.go:63
+
+22.08.2025 22:49:17
+Level: Info
+Message: impeaone использовал команду </add impeaone <=> 76561198298329376>
+Place: database.go:55
+
+22.08.2025 22:49:23
+Level: Info
+Message: impeaone использовал команду </get impeaone>
+Place: database.go:55
+
+22.08.2025 22:52:13
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 22:52:13
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:77
+
+22.08.2025 22:52:21
+Level: Info
+Message: impeaone использовал команду </get impeaone>
+Place: database.go:55
+
+22.08.2025 22:59:56
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 22:59:57
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:77
+
+22.08.2025 23:00:07
+Level: Info
+Message: impeaone использовал команду </get impeaone>
+Place: database.go:55
+
+22.08.2025 23:07:41
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 23:07:41
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:77
+
+22.08.2025 23:07:52
+Level: Info
+Message: impeaone использовал команду </get impeaone>
+Place: database.go:55
+
+22.08.2025 23:09:30
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 23:09:30
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:77
+
+22.08.2025 23:09:39
+Level: Info
+Message: impeaone использовал команду </get impeaone>
+Place: database.go:55
+
+22.08.2025 23:10:46
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 23:10:47
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:77
+
+22.08.2025 23:10:52
+Level: Info
+Message: impeaone использовал команду </get impeaone>
+Place: database.go:55
+
+22.08.2025 23:12:39
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+22.08.2025 23:12:39
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:77
+
+22.08.2025 23:12:45
+Level: Info
+Message: impeaone использовал команду </get impeaone>
+Place: database.go:55
+
+23.08.2025 00:03:30
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 00:03:30
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:77
+
+23.08.2025 00:03:45
+Level: Info
+Message: Vlad написал боту: У меня 78143.000000 минут наигранно в дота2. Переведи их в часы и оцени.
+Place: ai.go:74
+
+23.08.2025 00:03:45
+Level: Info
+Message: impeaone использовал команду </get impeaone>
+Place: database.go:55
+
+23.08.2025 00:05:18
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 00:05:18
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:77
+
+23.08.2025 00:05:35
+Level: Info
+Message: Vlad написал боту: У меня 78143.000000 минут наигранно в дота2. Переведи их в часы и оцени.
+Place: ai.go:74
+
+23.08.2025 00:05:36
+Level: Info
+Message: impeaone использовал команду </get impeaone>
+Place: database.go:55
+
+23.08.2025 00:07:21
+Level: Info
+Message: dimansh добавил сопоставление: dimansh <=> 76561199100120511
+Place: database.go:63
+
+23.08.2025 00:07:21
+Level: Info
+Message: dimansh использовал команду </add dimansh <=> 76561199100120511>
+Place: database.go:55
+
+23.08.2025 00:07:36
+Level: Info
+Message: Dimanche написал боту: У меня 774.000000 минут наигранно в дота2. Переведи их в часы и оцени.
+Place: ai.go:74
+
+23.08.2025 00:07:37
+Level: Info
+Message: dimansh использовал команду </get dimansh>
+Place: database.go:55
+
+23.08.2025 00:10:04
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 00:10:04
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+23.08.2025 00:10:14
+Level: Info
+Message: Dimanche написал боту: У меня %!f(int=774) минут наигранно в дота2. Переведи их в часы и оцени.
+Place: ai.go:74
+
+23.08.2025 00:10:14
+Level: Info
+Message: dimansh использовал команду </get dimansh>
+Place: database.go:55
+
+23.08.2025 00:11:54
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 00:11:54
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:77
+
+23.08.2025 00:12:08
+Level: Info
+Message: Vlad написал боту: У меня %!f(int64=78143) минут наигранно в дота2. Переведи их в часы и оцени.
+Place: ai.go:74
+
+23.08.2025 00:12:08
+Level: Info
+Message: impeaone использовал команду </get impeaone>
+Place: database.go:55
+
+23.08.2025 00:12:29
+Level: Warning
+Message: Ошибка get steam user: no player data
+Place: main.go:301
+
+23.08.2025 00:12:29
+Level: Warning
+Message: Ошибка get steam user: no player data
+Place: main.go:305
+
+23.08.2025 00:12:56
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 00:12:56
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:77
+
+23.08.2025 00:13:12
+Level: Info
+Message: Dimanche написал боту: У меня %!f(int64=774) минут наигранно в дота2. Переведи их в часы и оцени.
+Place: ai.go:74
+
+23.08.2025 00:13:14
+Level: Info
+Message: dimansh использовал команду </get dimansh>
+Place: database.go:55
+
+23.08.2025 00:15:19
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 00:15:20
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:77
+
+23.08.2025 12:18:48
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 12:18:48
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+23.08.2025 12:19:24
+Level: Info
+Message: impeaone добавил сопоставление: misha657495498 <=> 76561198968392077
+Place: database.go:63
+
+23.08.2025 12:19:25
+Level: Info
+Message: impeaone использовал команду </add misha657495498 <=> 76561198968392077>
+Place: database.go:55
+
+23.08.2025 12:19:41
+Level: Info
+Message: Vlad написал боту: У меня 149444.000000 минут наигранно в дота2. Переведи их в часы и оцени.
+Place: ai.go:74
+
+23.08.2025 12:19:41
+Level: Info
+Message: impeaone использовал команду </get misha657495498>
+Place: database.go:55
+
+23.08.2025 12:23:16
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 12:23:17
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+23.08.2025 12:23:33
+Level: Info
+Message: Vlad написал боту: У меня 149444.000000 минут наигранно в дота2. Переведи их в часы и только оцени. Лишние вопросы не задавай
+Place: ai.go:74
+
+23.08.2025 12:23:34
+Level: Info
+Message: impeaone использовал команду </get misha657495498>
+Place: database.go:55
+
+23.08.2025 12:28:09
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 12:28:10
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:77
+
+23.08.2025 12:28:20
+Level: Info
+Message: Vlad написал боту: У меня %!f(int=78143) минут наигранно в дота2. Переведи их в часы и только оцени. Лишние вопросы не задавай
+Place: ai.go:74
+
+23.08.2025 12:28:20
+Level: Info
+Message: impeaone использовал команду </get impeaone>
+Place: database.go:55
+
+23.08.2025 12:29:17
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 12:29:17
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:77
+
+23.08.2025 12:29:30
+Level: Info
+Message: Vlad написал боту: У меня %!f(int=78143) минут наигранно в дота2. Переведи их в часы и только оцени, побольше. Вопросы не задавай.
+Place: ai.go:74
+
+23.08.2025 12:29:30
+Level: Info
+Message: impeaone использовал команду </get impeaone>
+Place: database.go:55
+
+23.08.2025 12:31:27
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 12:31:28
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:77
+
+23.08.2025 12:31:43
+Level: Info
+Message: Vlad написал боту: Тебе пишет misha657495498: У меня %!f(int=149444) минут наигранно в дота2. Переведи их в часы и только оцени, побольше. Вопросы не задавай.
+Place: ai.go:74
+
+23.08.2025 12:31:43
+Level: Info
+Message: impeaone использовал команду </get misha657495498>
+Place: database.go:55
+
+23.08.2025 12:32:30
+Level: Info
+Message: Vlad написал боту: Тебе пишет dimansh: У меня %!f(int=774) минут наигранно в дота2. Переведи их в часы и только оцени, побольше. Вопросы не задавай.
+Place: ai.go:74
+
+23.08.2025 12:32:30
+Level: Info
+Message: impeaone использовал команду </get dimansh>
+Place: database.go:55
+
+23.08.2025 13:04:21
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 13:04:22
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:77
+
+23.08.2025 13:04:42
+Level: Info
+Message: impeaone добавил сопоставление: faris228 <=> 76561198967493148
+Place: database.go:63
+
+23.08.2025 13:04:42
+Level: Info
+Message: impeaone использовал команду </add faris228 <=> 76561198967493148>
+Place: database.go:55
+
+23.08.2025 13:05:18
+Level: Info
+Message: Vlad написал боту: Тебе пишет faris228: У меня %!f(int=190018) минут наигранно в дота2. Переведи их в часы и только оценика, побольше, построже.
+Place: ai.go:74
+
+23.08.2025 13:05:19
+Level: Info
+Message: impeaone использовал команду </get faris228>
+Place: database.go:55
+
+23.08.2025 13:07:02
+Level: Info
+Message: Vlad написал боту: Тебе пишет Vlad: /you
+Place: ai.go:74
+
+23.08.2025 13:07:02
+Level: Info
+Message: impeaone использовал команду </you>
+Place: database.go:55
+
+23.08.2025 13:09:42
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 13:09:43
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+23.08.2025 13:09:58
+Level: Info
+Message: Vlad написал боту: Тебе пишет dimansh: У меня %!f(string=774) минут наигранно в дота2. Переведи их в часы и только оценика, побольше, построже.
+Place: ai.go:74
+
+23.08.2025 13:09:59
+Level: Info
+Message: impeaone использовал команду </get dimansh>
+Place: database.go:55
+
+23.08.2025 13:10:59
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 13:11:00
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+23.08.2025 13:11:42
+Level: Info
+Message: Vlad написал боту: Тебе пишет dimansh: У меня %!f(string=774) минут наигранно в дота2. Переведи их в часы и только оценика, побольше, построже.
+Place: ai.go:74
+
+23.08.2025 13:11:43
+Level: Info
+Message: impeaone использовал команду </get dimansh>
+Place: database.go:55
+
+23.08.2025 13:12:43
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 13:12:43
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+23.08.2025 13:12:54
+Level: Info
+Message: Vlad написал боту: Тебе пишет dimansh: У меня %!f(string=774) минут наигранно в дота2. Переведи их в часы и только оценика, побольше, построже.
+Place: ai.go:74
+
+23.08.2025 13:12:55
+Level: Info
+Message: impeaone использовал команду </get dimansh>
+Place: database.go:55
+
+23.08.2025 13:13:20
+Level: Info
+Message: Vlad написал боту: Тебе пишет faris228: У меня %!f(string=190018) минут наигранно в дота2. Переведи их в часы и только оценика, побольше, построже.
+Place: ai.go:74
+
+23.08.2025 13:13:20
+Level: Info
+Message: impeaone использовал команду </get faris228>
+Place: database.go:55
+
+23.08.2025 13:56:11
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 13:56:12
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+23.08.2025 13:57:01
+Level: Warning
+Message: Ошибка get steam user: no player data
+Place: main.go:305
+
+23.08.2025 13:57:01
+Level: Warning
+Message: Ошибка get steam user: no player data
+Place: main.go:309
+
+23.08.2025 13:58:23
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 13:58:23
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+23.08.2025 14:02:47
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 14:02:48
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+23.08.2025 14:03:03
+Level: Warning
+Message: Ошибка get steam user: no player data
+Place: main.go:306
+
+23.08.2025 14:03:52
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 14:03:52
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+23.08.2025 14:04:00
+Level: Warning
+Message: Ошибка get steam user: no player data
+Place: main.go:306
+
+23.08.2025 14:22:53
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 14:22:53
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+23.08.2025 14:23:30
+Level: Info
+Message: impeaone добавил сопоставление: impeaone <=> 76561198967493148
+Place: database.go:72
+
+23.08.2025 14:23:30
+Level: Info
+Message: impeaone использовал команду </add impeaone <=> 76561198967493148>
+Place: database.go:58
+
+23.08.2025 14:23:54
+Level: Info
+Message: impeaone добавил сопоставление: impeaone <=> 76561198967493148
+Place: database.go:72
+
+23.08.2025 14:23:54
+Level: Info
+Message: impeaone использовал команду </add impeaone <=> 76561198967493148>
+Place: database.go:58
+
+23.08.2025 14:24:36
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 14:24:36
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+23.08.2025 14:24:52
+Level: Info
+Message: impeaone добавил сопоставление: impeaone <=> 76561198967493148
+Place: database.go:72
+
+23.08.2025 14:24:52
+Level: Info
+Message: impeaone использовал команду </add impeaone <=> 76561198967493148>
+Place: database.go:58
+
+23.08.2025 14:25:42
+Level: Info
+Message: Create session success
+Place: botFunctions.go:105
+
+23.08.2025 14:25:43
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+23.08.2025 14:25:53
+Level: Info
+Message: impeaone добавил сопоставление: faris228 <=> 76561198967493148
+Place: database.go:72
+
+23.08.2025 14:25:54
+Level: Info
+Message: impeaone использовал команду </add faris228 <=> 76561198967493148>
+Place: database.go:58
+
+23.08.2025 14:26:00
+Level: Warning
+Message: UNIQUE constraint failed
+Place: main.go:277
+
+23.08.2025 14:26:18
+Level: Info
+Message: Vlad написал боту: Тебе пишет faris228: У меня %!f(string=190018) минут наигранно в дота2. Переведи их в часы и только оценика, побольше, построже.
+Place: ai.go:74
+
+23.08.2025 14:26:18
+Level: Info
+Message: impeaone использовал команду </get faris228>
+Place: database.go:58
+
+23.08.2025 14:29:10
+Level: Warning
+Message: Ошибка get steam user: no player data
+Place: main.go:317
+
+23.08.2025 14:40:22
+Level: Info
+Message: Create session success
+Place: botFunctions.go:117
+
+23.08.2025 14:40:23
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+23.08.2025 14:45:52
+Level: Info
+Message: Create session success
+Place: botFunctions.go:117
+
+23.08.2025 14:45:52
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+23.08.2025 14:46:39
+Level: Info
+Message: impeaone добавил сопоставление: faris228 <=> 76561198967493148
+Place: database.go:72
+
+23.08.2025 14:46:39
+Level: Info
+Message: impeaone использовал команду </add faris228 <=> 76561198967493148>
+Place: database.go:58
+
+23.08.2025 14:46:48
+Level: Info
+Message: Vlad написал боту: Тебе пишет faris228: У меня %!f(string=190018) минут наигранно в дота2. Переведи их в часы и только оценика, побольше, построже.
+Place: ai.go:74
+
+23.08.2025 14:46:49
+Level: Info
+Message: impeaone использовал команду </get faris228>
+Place: database.go:58
+
+23.08.2025 14:48:22
+Level: Info
+Message: impeaone добавил сопоставление: misha657495498 <=> 76561198968392077
+Place: database.go:72
+
+23.08.2025 14:48:22
+Level: Info
+Message: impeaone использовал команду </add misha657495498 <=> 76561198968392077>
+Place: database.go:58
+
+23.08.2025 14:48:36
+Level: Info
+Message: Vlad написал боту: Тебе пишет misha657495498: У меня %!f(string=149444) минут наигранно в дота2. Переведи их в часы и только оценика, побольше, построже.
+Place: ai.go:74
+
+23.08.2025 14:48:36
+Level: Info
+Message: impeaone использовал команду </get misha657495498>
+Place: database.go:58
+
+23.08.2025 14:49:16
+Level: Warning
+Message: Ошибка get steam user: no player data
+Place: main.go:317
+
+23.08.2025 14:50:05
+Level: Info
+Message: Dimanche написал боту: Тебе пишет Dimanche: /time
+Place: ai.go:74
+
+23.08.2025 14:50:05
+Level: Info
+Message: dimansh использовал команду </time>
+Place: database.go:58
+
+23.08.2025 14:52:04
+Level: Info
+Message: dimansh написал боту: Йо альтуха у меня 1 ммр в доте. Норм?
+Place: ai.go:74
+
+23.08.2025 14:53:18
+Level: Info
+Message: impeaone написал боту: альтуха сколько надо ммр чтобы апнуть стража в доте
+Place: ai.go:74
+
+23.08.2025 16:00:27
+Level: Info
+Message: porosyabiboss написал боту: Альтуха, сможешь сегодня прийти ко мне домой, я куплю тебе белый монстр и мы будем няшиться и смотреть гуля)
+Place: ai.go:74
+
+23.08.2025 16:00:57
+Level: Info
+Message: impeaone добавил сопоставление: porosyabiboss <=> 76561198967859395
+Place: database.go:72
+
+23.08.2025 16:00:58
+Level: Info
+Message: impeaone использовал команду </add porosyabiboss <=> 76561198967859395>
+Place: database.go:58
+
+23.08.2025 16:01:07
+Level: Info
+Message: Vlad написал боту: Тебе пишет porosyabiboss: У меня %!f(string=66902) минут наигранно в дота2. Переведи их в часы и только оценика, побольше, построже.
+Place: ai.go:74
+
+23.08.2025 16:01:07
+Level: Info
+Message: impeaone использовал команду </get porosyabiboss>
+Place: database.go:58
+
+23.08.2025 16:01:52
+Level: Info
+Message: Vlad написал боту: Тебе пишет porosyabiboss: У меня %!f(string=66902) минут наигранно в дота2. Переведи их в часы и только оценика, побольше, построже.
+Place: ai.go:74
+
+23.08.2025 16:01:52
+Level: Info
+Message: impeaone использовал команду </get porosyabiboss>
+Place: database.go:58
+
+23.08.2025 16:02:02
+Level: Info
+Message: porosyabiboss написал боту: Альтуха, а сколько у тебя ммр в доте?
+Place: ai.go:74
+
+23.08.2025 16:10:21
+Level: Info
+Message: Vlad написал боту: Тебе пишет faris228: У меня %!f(string=190018) минут наигранно в дота2. Переведи их в часы и только оценика, побольше, построже.
+Place: ai.go:74
+
+23.08.2025 16:10:22
+Level: Info
+Message: impeaone использовал команду </get faris228>
+Place: database.go:58
+
+23.08.2025 18:25:42
+Level: Info
+Message: Create session success
+Place: botFunctions.go:117
+
+23.08.2025 18:25:43
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+23.08.2025 21:07:50
+Level: Info
+Message: impeaone добавил сопоставление: tomikillnigger <=> 76561199443688076
+Place: database.go:72
+
+23.08.2025 21:07:50
+Level: Info
+Message: impeaone использовал команду </add tomikillnigger <=> 76561199443688076>
+Place: database.go:58
+
+23.08.2025 21:08:01
+Level: Info
+Message: Vlad написал боту: Тебе пишет tomikillnigger: У меня %!f(string=157296) минут наигранно в дота2. Переведи их в часы и только оценика, побольше, построже.
+Place: ai.go:74
+
+23.08.2025 21:08:01
+Level: Info
+Message: impeaone использовал команду </get tomikillnigger>
+Place: database.go:58
+
+23.08.2025 21:10:14
+Level: Info
+Message: tomikillnigger написал боту: Тебе пишет tomikillnigger: альтуха кто играет на брювмастере?
+Place: ai.go:74
+
+23.08.2025 21:11:22
+Level: Info
+Message: tomikillnigger написал боту: Тебе пишет tomikillnigger: альтуха какого героя нужно брать фарису что бы небыть лохом играющем на некре
+Place: ai.go:74
+
+23.08.2025 21:12:12
+Level: Info
+Message: tomikillnigger написал боту: Тебе пишет tomikillnigger: альтуха сколько см хуй у миши
+Place: ai.go:74
+
+23.08.2025 21:12:28
+Level: Info
+Message: dimansh написал боту: Тебе пишет dimansh: Здаров альтуха, че о сервере думаешь?
+Place: ai.go:74
+
+23.08.2025 21:13:05
+Level: Info
+Message: tomikillnigger написал боту: Тебе пишет tomikillnigger: альтуха ты любишь когда пизденочку разрывает вонючий бомж с опарышами в члене?
+Place: ai.go:74
+
+23.08.2025 21:14:11
+Level: Info
+Message: tomikillnigger написал боту: Тебе пишет tomikillnigger: дух ты бы вздрючил на альтуху?
+Place: ai.go:74
+
+23.08.2025 21:15:14
+Level: Warning
+Message: Ошибка get steam user: no players
+Place: main.go:318
+
+23.08.2025 21:17:08
+Level: Info
+Message: tomikillnigger написал боту: Тебе пишет tomikillnigger: альтуха ты принимаешь в ротик шотик?
+Place: ai.go:74
+
+24.08.2025 02:41:02
+Level: Info
+Message: dimansh написал боту: Тебе пишет dimansh: Альтуха, ты бы танцевала с Серегой или с Артуром Пирожковым?
+Place: ai.go:74
+
+24.08.2025 12:25:02
+Level: Info
+Message: Create session success
+Place: botFunctions.go:117
+
+24.08.2025 12:25:02
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+24.08.2025 20:05:58
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+24.08.2025 22:39:32
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+24.08.2025 23:14:49
+Level: Warning
+Message: Ошибка get steam user: no player data
+Place: main.go:318
+
+24.08.2025 23:15:09
+Level: Warning
+Message: UNIQUE constraint failed
+Place: main.go:278
+
+24.08.2025 23:15:16
+Level: Warning
+Message: Ошибка get steam user: no player data
+Place: main.go:318
+
+24.08.2025 23:16:28
+Level: Info
+Message: Create session success
+Place: botFunctions.go:117
+
+24.08.2025 23:16:28
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+27.08.2025 00:24:30
+Level: Info
+Message: Create session success
+Place: botFunctions.go:117
+
+27.08.2025 00:24:31
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:78
+
+27.08.2025 00:25:11
+Level: Info
+Message: impeaone написал боту: Тебе пишет impeaone: альтуха, го секс
+Place: ai.go:74
+
+27.08.2025 00:25:37
+Level: Info
+Message: otchim002 написал боту: Тебе пишет otchim002: альтуха, го секс
+Place: ai.go:74
+
+27.08.2025 00:26:39
+Level: Info
+Message: otchim002 написал боту: Тебе пишет otchim002: альтуха, я габен
+Place: ai.go:74
+
+27.08.2025 00:27:28
+Level: Info
+Message: otchim002 написал боту: Тебе пишет otchim002: альтуха, рот закрой
+Place: ai.go:74
+
+27.08.2025 00:27:31
+Level: Info
+Message: impeaone добавил сопоставление: otchim002 <=> 76561199470768021
+Place: database.go:72
+
+27.08.2025 00:27:31
+Level: Info
+Message: impeaone использовал команду </add otchim002 <=> 76561199470768021>
+Place: database.go:58
+
+27.08.2025 00:27:41
+Level: Info
+Message: Vlad написал боту: Тебе пишет otchim002: У меня %!f(string=63913) минут наигранно в дота2. Переведи их в часы и только оценика, побольше, построже.
+Place: ai.go:74
+
+27.08.2025 00:27:42
+Level: Info
+Message: impeaone использовал команду </get otchim002>
+Place: database.go:58
+
+27.08.2025 00:28:21
+Level: Info
+Message: Vlad написал боту: Тебе пишет porosyabiboss: У меня %!f(string=68809) минут наигранно в дота2. Переведи их в часы и только оценика, побольше, построже.
+Place: ai.go:74
+
+27.08.2025 00:28:21
+Level: Info
+Message: impeaone использовал команду </get porosyabiboss>
+Place: database.go:58
+
+27.08.2025 00:31:13
+Level: Warning
+Message: Ошибка get steam user: no player data
+Place: main.go:318
+
+27.08.2025 00:31:31
+Level: Info
+Message: Vlad написал боту: Тебе пишет faris228: У меня %!f(string=191607) минут наигранно в дота2. Переведи их в часы и только оценика, побольше, построже.
+Place: ai.go:74
+
+27.08.2025 00:31:32
+Level: Info
+Message: impeaone использовал команду </get faris228>
+Place: database.go:58
+
+27.08.2025 15:19:17
+Level: Info
+Message: Create session success
+Place: botFunctions.go:119
+
+27.08.2025 15:19:17
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:79
+
+27.08.2025 15:19:37
+Level: Info
+Message: Альтухе написал бот: Альтушка
+Place: main.go:89
+
+27.08.2025 15:19:39
+Level: Info
+Message: Vlad написал боту: Тебе пишет Vlad: /ping
+Place: ai.go:74
+
+27.08.2025 15:19:39
+Level: Info
+Message: impeaone использовал команду </ping>
+Place: database.go:63
+
+27.08.2025 15:19:42
+Level: Info
+Message: Альтухе написал бот: Альтушка
+Place: main.go:89
+
+27.08.2025 15:19:45
+Level: Info
+Message: Vlad написал боту: Тебе пишет Vlad: Йоу
+Place: ai.go:74
+
+27.08.2025 15:19:45
+Level: Info
+Message: impeaone использовал команду </talk Тебе пишет Vlad: Йоу>
+Place: database.go:63
+
+27.08.2025 15:19:54
+Level: Info
+Message: Альтухе написал бот: Альтушка
+Place: main.go:89
+
+27.08.2025 15:19:58
+Level: Info
+Message: Vlad написал боту: Тебе пишет Vlad: /time
+Place: ai.go:74
+
+27.08.2025 15:19:59
+Level: Info
+Message: impeaone использовал команду </time>
+Place: database.go:63
+
+27.08.2025 15:20:34
+Level: Info
+Message: Альтухе написал бот: Альтушка
+Place: main.go:89
+
+27.08.2025 15:20:35
+Level: Info
+Message: impeaone добавил сопоставление: impeaone <=> 76561198298329376
+Place: database.go:77
+
+27.08.2025 15:20:35
+Level: Info
+Message: impeaone использовал команду </add impeaone <=> 76561198298329376>
+Place: database.go:63
+
+27.08.2025 15:20:47
+Level: Info
+Message: Альтухе написал бот: Альтушка
+Place: main.go:89
+
+27.08.2025 15:20:51
+Level: Info
+Message: Vlad написал боту: Тебе пишет impeaone: У меня %!f(string=79214) минут наигранно в дота2. Переведи их в часы и только оценика, побольше, построже.
+Place: ai.go:74
+
+27.08.2025 15:20:52
+Level: Info
+Message: impeaone использовал команду </get impeaone>
+Place: database.go:63
+
