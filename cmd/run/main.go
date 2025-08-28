@@ -86,7 +86,6 @@ func main() {
 	dg.AddHandler(func(s *discordgo.Session, m *discordgo.MessageCreate) {
 		// Игнорируем сообщения от ботов
 		if m.Author.Bot {
-			logs.Info("Альтухе написал бот: "+m.Author.Username, logger.GetPlace())
 			return
 		}
 		//Если это личное сообщение

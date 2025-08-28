@@ -1694,3 +1694,43 @@ Level: Info
 Message: impeaone использовал команду </get impeaone>
 Place: database.go:63
 
+28.08.2025 21:28:55
+Level: Error
+Message: Api-key value in evironment is empty
+Place: main.go:55
+
+28.08.2025 21:32:15
+Level: Info
+Message: Create session success
+Place: botFunctions.go:119
+
+28.08.2025 21:32:16
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:79
+
+28.08.2025 21:32:39
+Level: Info
+Message: impeaone написал боту: Тебе пишет impeaone: йоу альтуха
+Place: ai.go:74
+
+28.08.2025 21:32:40
+Level: Info
+Message: Альтухе написал бот: Альтушка
+Place: main.go:89
+
+28.08.2025 21:32:40
+Level: Info
+Message: impeaone использовал команду </talk>
+Place: database.go:63
+
+28.08.2025 21:33:23
+Level: Info
+Message: Create session success
+Place: botFunctions.go:119
+
+28.08.2025 21:33:23
+Level: Info
+Message: Бот запущен как Альтушка#4276
+Place: main.go:79
+

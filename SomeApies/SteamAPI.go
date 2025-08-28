@@ -102,7 +102,9 @@ func GetDota2HoursBySteamID(steamAPI, steamID string) (float64, error) {
 
 func GetDota2HoursByDiscordID(DiscordSteam map[string]string, steamAPI, DiscordID string, logs *logger.Log) (
 	float64, error) {
+	ComparesMutex.RLock()
 	steamID, finds := DiscordSteam[DiscordID]
+	ComparesMutex.RUnlock()
 	if !finds {
 		return 0, errors.New("no player data")
 	}
@@ -111,5 +113,5 @@ func GetDota2HoursByDiscordID(DiscordSteam map[string]string, steamAPI, DiscordI
 
 // ComparesMutex : Все функции выше идут для одного embed сообщения от бота, там в коде нужен mutex, потому что мапа
 var (
-	ComparesMutex sync.Mutex //mutex для мапы Compares
+	ComparesMutex sync.RWMutex //mutex для мапы Compares
 )
